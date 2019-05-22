@@ -2,21 +2,21 @@
 # Customize Options: Must Change
 #
 # Title:
-title: Duo, A Simple Jekyll Theme
+title: Caleb Walz: Multi-Genre Project
 
 # Where the page will be deployed.
 # If it's https://foo.com/bar, just write "https://foo.com"
-url: "https://chibicode.github.io"
+url: "https://calebwalz.github.io"
 
 # If you're deployging to a subdirectory (https://foo.com/bar/)
 # Then write "/bar/". Otherwise, remove this line.
-baseurl: "/duo/"
+# baseurl: "/duo/"
 
 # Twitter IDs
-twitter:
-  username: "chibicode"
-author:
-  twitter: "chibicode"
+# twitter:
+#  username: "chibicode"
+# author:
+#  twitter: "chibicode"
 
 # Set default og:image
 # From Unsplash: https://unsplash.com/photos/1_CMoFsPfso
@@ -45,7 +45,7 @@ google_analytics: ""
 lang: "en"
 
 # How many posts are visible on the home page without clicking "View More"
-num_posts_visible_initially: 5
+num_posts_visible_initially: 0
 
 # Date format: See http://strftime.net/
 date_format: "%b %-d, %Y"
