@@ -201,4 +201,27 @@ To take one final breath.
 
 ![](https://calebwalz.github.io/static/images/image.jpg)
 
-This image depicts the source of our value: God. In God we find true value
+This image depicts the source of our value: God. In God we find true value, as He takes care of us every day. Some people might look at that baby and think that it has no value. It hasn't proven itself. Maybe it shouldn't have even been born. But God takes each and every one of us into His hands and protects our lives as precious.
+
+
+
+## saving lives
+
+So now that we know that lives have value, what do we do? We save them. You might at this point ask, _How to save a life?_ Well, I have just the video for you.
+
+<p class="aspect-ratio aspect-ratio--16x9">
+  <iframe
+    class="aspect-ratio--object"
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/jlBWoCrztWI"
+    frameborder="0"
+    allowfullscreen></iframe>
+</p>
+
+The video describes how we often see people just for what they do, rather than who they are. However, when we begin to realize who they truly are, and that they have value, we can help them see that as well. It doesn't have to be big. You can save a life through a simple hand.
+
+
+
+## sources
+
