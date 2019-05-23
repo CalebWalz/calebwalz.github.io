@@ -209,15 +209,7 @@ This image depicts the source of our value: God. In God we find true value, as H
 
 So now that we know that lives have value, what do we do? We save them. You might at this point ask, _How to save a life?_ Well, I have just the video for you.
 
-<p class="aspect-ratio aspect-ratio--16x9">
-  <iframe
-    class="aspect-ratio--object"
-    width="560"
-    height="315"
-    src="https://www.youtube.com/embed/jlBWoCrztWI"
-    frameborder="0"
-    allowfullscreen></iframe>
-</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jlBWoCrztWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The video describes how we often see people just for what they do, rather than who they are. However, when we begin to realize who they truly are, and that they have value, we can help them see that as well. It doesn't have to be big. You can save a life through a simple hand.
 
