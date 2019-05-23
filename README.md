@@ -147,24 +147,24 @@ People often get abortions because they have given up. They don't think that the
 
 ## dark to light
 
-They say that if you’re lost at night
-A light will guide the way.
-But how will I know what’s wrong or right
+They say that if you’re lost at night  
+A light will guide the way.  
+But how will I know what’s wrong or right  
 When I can’t see, but it’s day?
 
-I’m blinded by the darkness now—
-Can’t see, don’t know, don’t care.
-But someone, somewhere, might know how
+I’m blinded by the darkness now—  
+Can’t see, don’t know, don’t care.  
+But someone, somewhere, might know how  
 My little life to spare.
 
-I looked and looked, but I couldn’t find
-A way to get back home.
-But the Father came to me from behind—
-No longer would I roam.
+I looked and looked, but I couldn’t find  
+A way to get back home.  
+But the Father came to me from behind—  
+No longer would I roam.  
 
-I know my purpose: ‘tis to be
-A guide away from death.
-God’s light in me to help them see
+I know my purpose: ‘tis to be  
+A guide away from death.  
+God’s light in me to help them see  
 To take one final breath.
 
 
