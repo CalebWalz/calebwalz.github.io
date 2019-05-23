@@ -225,3 +225,8 @@ The video describes how we often see people just for what they do, rather than w
 
 ## sources
 
+![](https://calebwalz.github.io/static/images/A370FF46-C1C4-4917-938E-F673743BCBF3.png)
+
+![](https://calebwalz.github.io/static/images/F531DB8A-5F76-43D6-808E-C718558EF1EF.png)
+
+![](https://calebwalz.github.io/static/images/773CBDEA-0389-4024-A652-AD9CF2D5F99B.png)
