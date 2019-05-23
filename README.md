@@ -8,7 +8,7 @@ Dear reader,
 
 When I first chose to write about the value of life, I didn’t really know what I was getting into. To be fair, I didn’t really know what I was getting into with the entire project. But choosing a topic as broad as the value of life really made me struggle later. I had no idea what to write about for any of my genres, because I could write about almost anything—abortion, suicide, euthanasia, and on and on. So many things have to do with the value of life, because everything that we do affects lives. But then, I realized that this was also a blessing—because I could write about anything. I began to look at the big picture, how the way we perceive the value of life changes based on little things and big things. I started the project with the intent of convincing people that all life has value, but I think—I hope—that I have been able to do more than that. I hope that you will learn about the value of life. I hope that you will find how all life has value, even if you can’t immediately see it. And most importantly, I hope that you will be able to find your value in the one place, the one person, that will never change: God. So as you read, explore. Discover. Learn. And maybe, just maybe, value life a little bit more.
 
--_Caleb Walz_
+_Caleb Walz_
 
 
 
