@@ -20,11 +20,11 @@ letter to reader
 
 [a new perspective](#a-new-perspective) - an interview with my mother
 
-advertisment
+[gave up](#gave-up) - an advertisement
 
 [dark to light](#dark-to-light) - a poem about finding true light
 
-dialogue
+[between young and old](#between-young-and-old) - a creative dialogue between Anna and Liesel
 
 [safe in his hands](#safe-in-his-hands) - a photo depicting who gives us value
 
